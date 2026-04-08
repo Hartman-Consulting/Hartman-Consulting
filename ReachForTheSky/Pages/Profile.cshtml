@@ -1,0 +1,77 @@
+﻿@page "{id:int}"
+@model ReachForTheSky.Pages.ProfileModel
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h2>User Profile</h2>
+
+@if (Model.NotFound)
+{
+    <p class="text-danger">User not found.</p>
+}
+else
+{
+    <form method="post">
+        <input type="hidden" asp-for="Input.UserID" />
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <div>
+            <label asp-for="Input.Name"></label>
+            <input asp-for="Input.Name" />
+            <span asp-validation-for="Input.Name" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Input.Email"></label>
+            <input asp-for="Input.Email" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+        </div>
+
+        <div>
+            <label asp-for="Input.Phone"></label>
+            <input asp-for="Input.Phone" />
+        </div>
+
+        <div>
+            <label asp-for="Input.AccountType"></label>
+            <select asp-for="Input.AccountType">
+                <option value="Personal">Personal</option>
+                <option value="Organization">Organization</option>
+            </select>
+        </div>
+
+        <div>
+            <label asp-for="Input.TravelRadius"></label>
+            <input asp-for="Input.TravelRadius" type="number" />
+        </div>
+
+        <div>
+            <label asp-for="Input.ADAPreferences"></label>
+            <input asp-for="Input.ADAPreferences" />
+        </div>
+
+        <div>
+            <label>Credit Balance</label>
+            <input value="@Model.Input.CreditBalance" disabled />
+        </div>
+
+        <div>
+            <label>Account Status</label>
+            <input value="@Model.Input.AccountStatus" disabled />
+        </div>
+
+        <button type="submit">Save Changes</button>
+
+        @if (!string.IsNullOrEmpty(Model.StatusMessage))
+        {
+            <p>@Model.StatusMessage</p>
+        }
+    </form>
+}
+
+<button type="submit">Save Changes</button>
+
+<form method="post" asp-page-handler="Logout">
+    <button type="submit">Logout</button>
+</form>

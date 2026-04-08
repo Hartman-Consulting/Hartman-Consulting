@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\profile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|c:\\users\\savag\\onedrive - james madison university\\desktop\\testdotnetcoreproject\\reachforthesky\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEDBF58D-3C39-4B5D-9A45-05A720272780}|ReachForTheSky.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:19:55.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Pages\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T20:19:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "Pages\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T20:13:04.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:03:47.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Profile.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Profile.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Profile.cshtml.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Profile.cshtml.cs",
+              "RelativeToolTip": "Pages\\Profile.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T20:13:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T20:06:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T18:59:40.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-08T19:24:08.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Register.cshtml",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Pages\\Register.cshtml",
+              "RelativeToolTip": "Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T19:02:54.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:01:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T19:00:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T18:49:30.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\savag\\OneDrive - James Madison University\\Desktop\\TestDotNetCoreProject\\ReachForTheSky\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T18:49:17.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

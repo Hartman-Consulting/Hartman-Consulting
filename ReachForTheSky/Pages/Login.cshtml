@@ -1,0 +1,30 @@
+﻿@page
+@model ReachForTheSky.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" />
+    </div>
+
+    <button type="submit">Login</button>
+
+    @if (!string.IsNullOrEmpty(Model.StatusMessage))
+    {
+        <p class="text-danger">@Model.StatusMessage</p>
+    }
+</form>
+
+<a href="/Register">Don't have an account? Register</a>

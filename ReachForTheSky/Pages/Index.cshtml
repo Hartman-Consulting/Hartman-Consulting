@@ -1,0 +1,20 @@
+﻿@page
+@model ReachForTheSky.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home";
+    var userName = HttpContext.Session.GetString("UserName");
+    var userID = HttpContext.Session.GetInt32("UserID");
+}
+
+<h2>Welcome to Reach for the Sky</h2>
+
+@if (userName != null && userID != null)
+{
+    <p>Welcome back, @userName!</p>
+    <a href="/Profile/@userID"><button>My Profile</button></a>
+}
+else
+{
+    <a href="/Login"><button>Login</button></a>
+    <a href="/Register"><button>Create Account</button></a>
+}
